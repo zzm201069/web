@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title></title>
 </head>
 <body>
     <h1>看到这个字体，说明你没走错！</h1>
